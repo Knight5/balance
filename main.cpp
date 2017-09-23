@@ -6,6 +6,9 @@
 //  Copyright (c) 2015 Scott Kelly. All rights reserved.
 //
 
+//include direct editing : friday sep22, 2017
+#include <list>
+// lists of edits
 
 #include <iostream>
 using namespace std;
